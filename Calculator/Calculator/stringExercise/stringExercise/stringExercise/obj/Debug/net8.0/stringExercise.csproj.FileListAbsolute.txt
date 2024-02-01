@@ -1,0 +1,14 @@
+D:\TopExamples\stringExercise\stringExercise\bin\Debug\net8.0\stringExercise.exe
+D:\TopExamples\stringExercise\stringExercise\bin\Debug\net8.0\stringExercise.deps.json
+D:\TopExamples\stringExercise\stringExercise\bin\Debug\net8.0\stringExercise.runtimeconfig.json
+D:\TopExamples\stringExercise\stringExercise\bin\Debug\net8.0\stringExercise.dll
+D:\TopExamples\stringExercise\stringExercise\bin\Debug\net8.0\stringExercise.pdb
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.AssemblyInfoInputs.cache
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.AssemblyInfo.cs
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.csproj.CoreCompileInputs.cache
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.dll
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\refint\stringExercise.dll
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.pdb
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\stringExercise.genruntimeconfig.cache
+D:\TopExamples\stringExercise\stringExercise\obj\Debug\net8.0\ref\stringExercise.dll

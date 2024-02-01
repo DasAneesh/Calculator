@@ -1,0 +1,6 @@
+F:\GOFGAN\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.csproj.AssemblyReference.cache
+F:\GOFGAN\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.csproj.CoreCompileInputs.cache
+F:\GOFGAN\CalculatorClassLibrary\bin\Debug\CalculatorClassLibrary.dll
+F:\GOFGAN\CalculatorClassLibrary\bin\Debug\CalculatorClassLibrary.pdb
+F:\GOFGAN\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.dll
+F:\GOFGAN\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.pdb
